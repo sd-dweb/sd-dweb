@@ -45,12 +45,6 @@ Passionate about building performant, scalable web applications, clean architect
 
 ---
 
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergeydziadevich/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developersiteweb@gmail.com)
-
----
 
 <p align="center">
   <i>Thanks for visiting my profile!</i>
