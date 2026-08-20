@@ -13,8 +13,8 @@ Passionate about building performant, scalable web applications, clean architect
 
 - 💼 **LinkedIn**: [in/sergeydziadevich](https://www.linkedin.com/in/sergeydziadevich/)
 - 🔭 **Focus**: Full-Stack Development (Angular, TypeScript & NestJS / Node.js)
-- 🌱 **Learning & Exploring**: Modern web ecosystems, cloud infrastructure, and AI integration
-- 💬 **Ask me about**: Angular, TypeScript, NestJS, React, Next.js, Node.js, and API Design
+- 🌱 **Learning & Exploring**: Cloud-native architectures (AWS/GCP), Micro-frontends, Event-driven systems, and AI/LLM integrations
+- 💬 **Ask me about**: Angular (Signals, RxJS, NgRx), TypeScript best practices, NestJS & Node.js architecture, scalable REST/GraphQL APIs, and frontend performance
 - 📫 **Contact**: [developersiteweb@gmail.com](mailto:developersiteweb@gmail.com)
 
 ---
