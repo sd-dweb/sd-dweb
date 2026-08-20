@@ -3,19 +3,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergeydziadevich/)
 [![Profile Views](https://komarev.com/ghpvc/?username=sd-dweb&color=blue&style=flat-square)](https://github.com/sd-dweb)
 
-### 💻 Full-Stack Software Engineer
+###  Full-Stack Software Engineer
 
 Passionate about building performant, scalable web applications, clean architecture, and modern digital experiences.
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 💼 **LinkedIn**: [in/sergeydziadevich](https://www.linkedin.com/in/sergeydziadevich/)
-- 🔭 **Focus**: Full-Stack Development (Angular, TypeScript & NestJS / Node.js)
-- ⚡ **Technical Interests & Innovation**: Cloud-native architectures (AWS/GCP), Micro-frontends, Event-driven systems, and AI/LLM integrations
-- 💎 **Expertise**: Angular (Signals, RxJS, NgRx), TypeScript best practices, NestJS & Node.js architecture, scalable REST/GraphQL APIs, and frontend performance
-
+- 💎 **Core Expertise**: Enterprise TypeScript ecosystem — specialized in modern Angular (Signals, RxJS, NgRx), modular NestJS backends, and scalable REST/GraphQL APIs
+- 💻 **Engineering Focus**: Designing resilient full-stack platforms, clean modular architectures, and high-performance user interfaces
+- 🚀 **Technical Innovation**: Cloud-native architectures (AWS/GCP), Micro-frontends, Micro-services, Event-driven systems, and AI/LLM integrations
+  
 ---
 
 ### 🛠️ Tech Stack & Tools
