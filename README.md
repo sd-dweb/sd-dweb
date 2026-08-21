@@ -13,7 +13,9 @@ Passionate about building performant, scalable web applications, clean architect
 
 - 💎 **Core Expertise**: Enterprise TypeScript ecosystem — specialized in modern Angular (Signals, RxJS, NgRx), modular NestJS backends, and scalable REST/GraphQL APIs
 - 💻 **Engineering Focus**: Designing resilient full-stack platforms, clean modular architectures, and high-performance user interfaces
-- 🚀 **Technical Innovation**: Cloud-native architectures (AWS/GCP), Micro-frontends, Micro-services, Event-driven systems, and AI/LLM integrations
+- ☁️ **Cloud & Distributed Systems**: Cloud-native infrastructure (AWS/GCP), Microservices, and Event-driven architectures
+- 🧩 **Modular Architecture**: Micro-frontends, Module Federation, and scalable enterprise mono-repos
+- 🤖 **AI & Emerging Tech**: Practical AI/LLM integrations, agentic workflows, and modern automation
   
 ---
 
