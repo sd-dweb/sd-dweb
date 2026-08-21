@@ -58,6 +58,17 @@ Passionate about building performant, scalable web applications, clean architect
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+#### 🤖 AI, LLMs & Multi-Agent Swarms
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-181717?style=flat-square)
+![FastMCP](https://img.shields.io/badge/FastMCP-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Genkit](https://img.shields.io/badge/Genkit-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
 ---
 
 
