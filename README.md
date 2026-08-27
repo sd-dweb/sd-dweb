@@ -1,5 +1,4 @@
-# Hi there I'm Sergey 👋
-
+# Hi I'm Sergey 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergeydziadevich/)
 [![Profile Views](https://komarev.com/ghpvc/?username=sd-dweb&color=blue&style=flat-square)](https://github.com/sd-dweb)
 
