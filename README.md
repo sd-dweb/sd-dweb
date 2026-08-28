@@ -14,7 +14,7 @@ Passionate about building performant, scalable web applications, clean architect
 - 💻 **Engineering Focus**: Designing resilient full-stack platforms, clean modular architectures, and high-performance user interfaces
 - ☁️ **Cloud & Distributed Systems**: Cloud-native infrastructure (AWS/GCP), Microservices, and Event-driven architectures
 - 🧩 **Modular Architecture**: Micro-frontends, Module Federation, and scalable enterprise mono-repos
-- 🤖 **AI & Emerging Tech**: Practical AI/LLM integrations, agentic workflows, and modern automation
+- ✨ **AI & Emerging Tech**: Practical AI/LLM integrations, agentic workflows, and modern automation
   
 ---
 
@@ -58,7 +58,7 @@ Passionate about building performant, scalable web applications, clean architect
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-#### 🤖 AI, LLMs & Multi-Agent Swarms
+#### ✨ AI, LLMs & Multi-Agent Swarms
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
